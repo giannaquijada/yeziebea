@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://iocoojohno.cshell.net/sitemap.xml
